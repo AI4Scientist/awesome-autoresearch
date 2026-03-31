@@ -91,17 +91,7 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 
 ## Community
 
-### Communities
-
-- [AutoResearchClaw Discord](https://discord.gg/u4ksqW5P) - Official community for AutoResearchClaw users and contributors.
 - [OpenClaw Community](https://github.com/openclaw/openclaw/discussions) - Discussions around the OpenClaw agent ecosystem.
-- [sciClaw Discord](https://discord.gg/UwGGGqU7yf) - Community for sciClaw users and contributors.
-
-### Guides & Tutorials
-
-- [AutoResearchClaw Testing Guide](https://github.com/aiming-lab/AutoResearchClaw#-were-looking-for-testers) - Try the full idea-to-paper pipeline with your own research idea.
-- [ResearchClaw Quick Start](https://ymx10086.github.io/ResearchClaw/) - Official docs for ResearchClaw setup and usage.
-- [sciClaw Documentation](https://sciclaw.dev/docs.html) - Official docs for sciClaw setup, authentication, and chat channel configuration.
 
 ## Contributing
 
