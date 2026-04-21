@@ -40,6 +40,10 @@
 - [autoresearch-skill](https://github.com/wjgoarxiv/autoresearch-skill) ![](https://img.shields.io/github/stars/wjgoarxiv/autoresearch-skill.svg) - Cross-platform LLM skill set (Claude Code/Codex/Gemini) that runs experiment-evaluate-iterate autoresearch loops from natural-language goals.
 - [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg) - AI-powered research assistant for automated research workflows.
 
+### Learning & Tutorials
+
+- [learn-auto-research](https://github.com/AI4Scientist/learn-auto-research) ![](https://img.shields.io/github/stars/AI4Scientist/learn-auto-research.svg) - Educational repository for learning and practicing autonomous research workflows.
+
 ### Research Platforms
 
 - [aiXiv](https://www.aixiv.co) ![](https://img.shields.io/github/stars/aixiv-org/aixiv-core.svg) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
