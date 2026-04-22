@@ -76,6 +76,15 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 - [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills.svg) - 869 medical/biomedical skills spanning clinical, genomics, and drug discovery domains.
 - [SkillNet](https://github.com/zjunlp/SkillNet) ![](https://img.shields.io/github/stars/zjunlp/SkillNet.svg) - Skill creation, evaluation, connection, and discovery infrastructure that searches 300k+ community skills.
 
+## Self-driving Labs
+
+Automated laboratory platforms and initiatives that integrate robotics, AI, and closed-loop experimentation.
+
+- [Acceleration Consortium](https://acceleration.utoronto.ca) - University of Toronto-led initiative advancing self-driving labs for materials acceleration and autonomous experimentation.
+- [Emerald Cloud Lab](https://www.emeraldcloudlab.com) - Cloud-based robotic laboratory platform for programmable and remotely executed experiments.
+- [IBM RXN for Chemistry](https://rxn.res.ibm.com) - AI platform for chemistry synthesis planning and autonomous lab workflow integration.
+- [Strateos](https://www.strateos.com) - Remote robotic lab platform for automated experiment execution and high-throughput biology workflows.
+
 ## Commercial Platforms
 
 ### Full Research Automation
