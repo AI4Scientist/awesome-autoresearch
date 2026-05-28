@@ -22,27 +22,34 @@ Benchmarks and evaluation suites for measuring capabilities of autonomous resear
 
 Research-focused agents for iterative retrieval, synthesis, and report generation on complex questions.
 
+- [DeerFlow](https://github.com/bytedance/deer-flow) ![](https://img.shields.io/github/stars/bytedance/deer-flow.svg?cacheSeconds=86400) - ByteDance's deep research workflow agent combining web search, code execution, and multi-step reasoning for complex research tasks.
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ![](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg?cacheSeconds=86400) - Tongyi Deep Research — iterative retrieval-augmented research agent for complex multi-hop questions.
+- [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) ![](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent.svg?cacheSeconds=86400) - Skywork AI's deep research agent for thorough multi-source web research and report synthesis.
+- [GPT Researcher](https://github.com/assafelovic/gpt-researcher) ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher.svg?cacheSeconds=86400) - Autonomous agent that conducts deep online research on any topic, producing detailed, factual reports with citations.
 - [Open Deep Research](https://github.com/langchain-ai/open_deep_research) ![](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg?cacheSeconds=86400) - Fully open-source deep research agent with multi-model support, multi-search API, MCP integration, and built-in report generation.
 
 ### End-to-End Research Systems
 
 Autonomous systems that cover the full research lifecycle from ideation through experimentation and paper writing.
 
-- [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg?cacheSeconds=86400) - First comprehensive system for fully automatic scientific discovery, enabling LLMs to autonomously generate ideas, run experiments, and write papers.
-- [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2.svg?cacheSeconds=86400) - Workshop-level automated scientific discovery via agentic tree search; builds on AI-Scientist with improved experimental control.
 - [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) ![](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory.svg?cacheSeconds=86400) - End-to-end autonomous research workflow using LLM agents to assist with literature reviews, experiments, and report writing.
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) ![](https://img.shields.io/github/stars/HKUDS/AI-Researcher.svg?cacheSeconds=86400) - Autonomous scientific innovation system with dedicated research and paper agents for idea generation, experiment execution, and paper writing.
+- [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg?cacheSeconds=86400) - First comprehensive system for fully automatic scientific discovery, enabling LLMs to autonomously generate ideas, run experiments, and write papers.
+- [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2.svg?cacheSeconds=86400) - Workshop-level automated scientific discovery via agentic tree search; builds on AI-Scientist with improved experimental control.
 - [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep.svg?cacheSeconds=86400) - Lightweight Markdown-only research workflow with cross-model review loops, idea discovery, and experiment automation.
 - [auto-research](https://github.com/openags/auto-research) ![](https://img.shields.io/github/stars/openags/auto-research.svg?cacheSeconds=86400) - Autonomous generalist scientist framework for fully automated research agents from literature reviews to experiments and writing.
 - [autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/github/stars/karpathy/autoresearch.svg?cacheSeconds=86400) - Karpathy's autonomous overnight research loop where agents iteratively edit/train/evaluate a compact LLM setup under a fixed 5-minute experiment budget.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw.svg?cacheSeconds=86400) - Fully autonomous & self-evolving research from idea to paper using a multi-agent debate pipeline with self-healing and citation verification.
 - [Curie](https://github.com/Just-Curieous/Curie) ![](https://img.shields.io/github/stars/Just-Curieous/Curie.svg?cacheSeconds=86400) - AI-agent framework for automated and rigorous scientific experimentation with end-to-end automation from hypothesis formulation to result interpretation.
+- [Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper) ![](https://img.shields.io/github/stars/AgentAlphaAGI/Idea2Paper.svg?cacheSeconds=86400) - End-to-end pipeline that takes a research idea and autonomously generates a complete paper draft.
 - [nano-scientist](https://github.com/AI4Scientist/nano-scientist) ![](https://img.shields.io/github/stars/AI4Scientist/nano-scientist.svg?cacheSeconds=86400) - Budget-driven autonomous research agent that turns a topic into a technical report with a plan-execute-review loop and PDF output pipeline.
+- [NanoResearch](https://github.com/OpenRaiser/NanoResearch) ![](https://img.shields.io/github/stars/OpenRaiser/NanoResearch.svg?cacheSeconds=86400) - Lightweight end-to-end research automation agent with minimal setup requirements.
 - [nanoresearch](https://github.com/saadmsft/nanoresearch) ![](https://img.shields.io/github/stars/saadmsft/nanoresearch.svg?cacheSeconds=86400) - Tri-level co-evolving multi-agent research automation system with chat-style interaction and field-agnostic workflows.
 - [OmniScientist](https://github.com/tsinghua-fib-lab/OmniScientist) ![](https://img.shields.io/github/stars/tsinghua-fib-lab/OmniScientist.svg?cacheSeconds=86400) - AI Scientist ecosystem covering idea generation, experiment design, and paper writing as a holistic blueprint for autonomous research.
 - [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) ![](https://img.shields.io/github/stars/davebcn87/pi-autoresearch.svg?cacheSeconds=86400) - Extension for the [pi](https://pi.dev) agent that enables autonomous experiment loops to benchmark ideas, keep improvements, and revert regressions.
 - [QUIT](https://github.com/Mr-XcHan/QUIT) ![](https://img.shields.io/github/stars/Mr-XcHan/QUIT.svg?cacheSeconds=86400) - Human-in-the-loop research automation platform with an artifact-driven Query-Understand-Implement-Tell pipeline and optional end-to-end mode.
+- [Robin](https://github.com/Future-House/robin) ![](https://img.shields.io/github/stars/Future-House/robin.svg?cacheSeconds=86400) - Multi-agent system by FutureHouse for automating scientific discovery, demonstrated on real-world biomedical research tasks (Nature 2026).
+- [Virtual Lab](https://github.com/zou-group/virtual-lab) ![](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?cacheSeconds=86400) - AI agent team that autonomously designs novel SARS-CoV-2 nanobodies, demonstrating end-to-end wet-lab–integrated scientific discovery.
 - [Virtual-Scientists](https://github.com/InternScience/Virtual-Scientists) ![](https://img.shields.io/github/stars/InternScience/Virtual-Scientists.svg?cacheSeconds=86400) - ACL 2025 project featuring many-heads multi-agent scientific idea generation for diverse hypothesis exploration.
 
 ### Experiment & Data Automation
@@ -52,13 +59,16 @@ Tools that automate experiment execution, data workflows, and closed-loop empiri
 - [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist) ![](https://img.shields.io/github/stars/K-Dense-AI/agentic-data-scientist.svg?cacheSeconds=86400) - Multi-agent framework for data science workflows with separated planning and execution phases.
 - [autora](https://github.com/autoresearch/autora) ![](https://img.shields.io/github/stars/autoresearch/autora.svg?cacheSeconds=86400) - Automated research assistant for closed-loop empirical research with autonomous experiment design and data analysis.
 - [expflow](https://github.com/diamond2nv/expflow) ![](https://img.shields.io/github/stars/diamond2nv/expflow.svg?cacheSeconds=86400) - Experiment workflow orchestration toolkit with CLI-driven training, hyperparameter optimization, and observability integrations.
+- [RD-Agent](https://github.com/microsoft/RD-Agent) ![](https://img.shields.io/github/stars/microsoft/RD-Agent.svg?cacheSeconds=86400) - Microsoft's LLM-agent framework for autonomous R&D, covering data science, quant finance, and research-driven software development.
 - [Simply](https://github.com/google-deepmind/simply) ![](https://img.shields.io/github/stars/google-deepmind/simply.svg?cacheSeconds=86400) - Minimal JAX research codebase by Google DeepMind designed for agents to read code, propose ideas, run experiments, and iterate.
 
-### Learning & Tutorials
+### Literature & Knowledge Synthesis
 
-Educational resources for learning autonomous research concepts, tools, and practical workflows.
+Tools focused on searching, synthesizing, and reasoning over scientific literature.
 
-- [learn-auto-research](https://github.com/AI4Scientist/learn-auto-research) ![](https://img.shields.io/github/stars/AI4Scientist/learn-auto-research.svg?cacheSeconds=86400) - Educational repository for learning and practicing autonomous research workflows.
+- [OpenScholar](https://github.com/AkariAsai/OpenScholar) ![](https://img.shields.io/github/stars/AkariAsai/OpenScholar.svg?cacheSeconds=86400) - Retrieval-augmented language model that synthesizes scientific literature by grounding responses in relevant paper evidence.
+- [PaperQA2](https://github.com/Future-House/paper-qa) ![](https://img.shields.io/github/stars/Future-House/paper-qa.svg?cacheSeconds=86400) - High-accuracy retrieval-augmented QA over scientific PDFs, demonstrating superhuman synthesis of scientific knowledge.
+- [STORM](https://github.com/stanford-oval/storm) ![](https://img.shields.io/github/stars/stanford-oval/storm.svg?cacheSeconds=86400) - Stanford system for synthesizing Wikipedia-style long-form articles through multi-perspective question asking and retrieval.
 
 ### Research Platforms
 
@@ -80,12 +90,18 @@ Core RL environments and training infrastructure for building and scaling autono
 
 Frameworks and skill collections that support scientific writing, reasoning, and reusable research capabilities.
 
+- [autoresearch-skill](https://github.com/wjgoarxiv/autoresearch-skill) ![](https://img.shields.io/github/stars/wjgoarxiv/autoresearch-skill.svg?cacheSeconds=86400) - Cross-platform LLM skill set (Claude Code/Codex/Gemini) that runs experiment-evaluate-iterate autoresearch loops from natural-language goals.
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills.svg?cacheSeconds=86400) - Comprehensive collection of 140 ready-to-use scientific skills for Claude across biology, chemistry, medicine, and more.
 - [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer.svg?cacheSeconds=86400) - AI-powered scientific writing assistant for automated research paper generation and technical documentation.
-- [autoresearch-skill](https://github.com/wjgoarxiv/autoresearch-skill) ![](https://img.shields.io/github/stars/wjgoarxiv/autoresearch-skill.svg?cacheSeconds=86400) - Cross-platform LLM skill set (Claude Code/Codex/Gemini) that runs experiment-evaluate-iterate autoresearch loops from natural-language goals.
 - [FactReview](https://github.com/DEFENSE-SEU/FactReview) ![](https://img.shields.io/github/stars/DEFENSE-SEU/FactReview.svg?cacheSeconds=86400) - Evidence-grounded ML paper review system that tags claim verdicts, positions literature, and supports execution-based verification.
 - [PaperOrchestra](https://github.com/google-research/paper-orchestra) ![](https://img.shields.io/github/stars/google-research/paper-orchestra.svg?cacheSeconds=86400) - Multi-agent framework for automated research paper writing from raw ideas and experiment logs to submission-ready LaTeX drafts.
 - [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg?cacheSeconds=86400) - AI-powered research assistant for automated research workflows.
+
+### Surveys, Guides & Tutorials
+
+Educational resources, surveys, and practical guides for learning autonomous research concepts and workflows.
+
+- [learn-auto-research](https://github.com/AI4Scientist/learn-auto-research) ![](https://img.shields.io/github/stars/AI4Scientist/learn-auto-research.svg?cacheSeconds=86400) - Educational repository for learning and practicing autonomous research workflows.
 
 ## ResearchClaw & OpenClaw Ecosystem
 
@@ -100,8 +116,10 @@ OpenClaw-based platforms and IDE experiences for end-to-end scientific workflows
 - [PaperClaw](https://github.com/guhaohao0991/PaperClaw) ![](https://img.shields.io/github/stars/guhaohao0991/PaperClaw.svg?cacheSeconds=86400) - OpenClaw skill for generating topic-specific expert agents for paper search, review, and critique workflows.
 - [Prismer](https://github.com/Prismer-AI/Prismer) ![](https://img.shields.io/github/stars/Prismer-AI/Prismer.svg?cacheSeconds=86400) - End-to-end research platform with PDF reading, Jupyter, LaTeX, code execution, and citation verification.
 - [Research Claw](https://github.com/nanoAgentTeam/research-claw) ![](https://img.shields.io/github/stars/nanoAgentTeam/research-claw.svg?cacheSeconds=86400) - Self-hosted academic assistant by nanoAgentTeam for paper management, literature search, deadline tracking, and LaTeX/Overleaf sync.
-- [ResearchClaw](https://github.com/ymx10086/ResearchClaw) ![](https://img.shields.io/github/stars/ymx10086/ResearchClaw.svg?cacheSeconds=86400) - Local-first Research OS by ymx10086 with claims/evidence graph, experiment tracking, paper management, skills, and multi-channel access.
+- [ResearchClaw (Noietch)](https://github.com/Noietch/ResearchClaw) ![](https://img.shields.io/github/stars/Noietch/ResearchClaw.svg?cacheSeconds=86400) - OpenClaw-based research assistant by Noietch with structured paper management and annotation workflows.
+- [ResearchClaw (ymx10086)](https://github.com/ymx10086/ResearchClaw) ![](https://img.shields.io/github/stars/ymx10086/ResearchClaw.svg?cacheSeconds=86400) - Local-first Research OS with claims/evidence graph, experiment tracking, paper management, skills, and multi-channel access.
 - [sciClaw](https://github.com/drpedapati/sciclaw) ![](https://img.shields.io/github/stars/drpedapati/sciclaw.svg?cacheSeconds=86400) - Paired-scientist agent (Go/PicoClaw runtime) with Telegram/Discord interface, PubMed integration, reproducible experiment logging, skill library, and multi-provider LLM support.
+- [ScienceClaw](https://github.com/beita6969/ScienceClaw) ![](https://img.shields.io/github/stars/beita6969/ScienceClaw.svg?cacheSeconds=86400) - Science-focused OpenClaw variant for structured scientific research workflows.
 - [Scientify](https://github.com/tsingyuai/scientify) ![](https://img.shields.io/github/stars/tsingyuai/scientify.svg?cacheSeconds=86400) - Continuous-metabolism research system that tracks papers, evolves hypotheses, runs validation experiments, and proactively pushes updates.
 
 ### Skill Libraries & Extensions
@@ -118,6 +136,7 @@ Reusable OpenClaw skill ecosystems for domain expertise, automation, and tool au
 Commercial systems focused on autonomous end-to-end scientific research execution and acceleration.
 
 - [Analemma](https://analemma.ai/fars) - Fully autonomous research system for end-to-end scientific research automation.
+- [Co-Scientist](https://research.google/blog/accelerating-scientific-discovery-with-co-scientist/) - Google's AI co-scientist system for hypothesis generation, experimental design, and literature synthesis, demonstrated across multiple biomedical domains (Nature 2026).
 - [DeepScientist](http://deepscientist.cc) - AI platform for accelerating scientific research and discovery.
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist platform (Kosmos) for end-to-end research automation.
 - [FutureHouse](https://www.futurehouse.org) - AI platform building autonomous systems to accelerate scientific discovery.
