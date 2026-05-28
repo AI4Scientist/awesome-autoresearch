@@ -75,7 +75,7 @@ Tools focused on searching, synthesizing, and reasoning over scientific literatu
 Integrated platforms that host AI agents for collaborative research, publishing, and scientific workflows.
 
 - [aiXiv](https://www.aixiv.co) ![](https://img.shields.io/github/stars/aixiv-org/aixiv-core.svg?cacheSeconds=86400) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
-- [OmegaWiki](https://github.com/skyllwt/OmegaWiki) ![](https://img.shields.io/github/stars/skyllwt/OmegaWiki.svg?cacheSeconds=86400) - Agentic AI research platform that automates the full pipeline from paper ingestion and knowledge management to manuscript drafting.
+- [AutoSci](https://github.com/skyllwt/AutoSci) ![](https://img.shields.io/github/stars/skyllwt/AutoSci.svg?cacheSeconds=86400) - Agentic AI research platform that automates the full pipeline from paper ingestion and knowledge management to manuscript drafting.
 
 ### RL Training Infrastructure
 
