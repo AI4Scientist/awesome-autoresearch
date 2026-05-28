@@ -51,7 +51,7 @@ Tools that automate experiment execution, data workflows, and closed-loop empiri
 
 - [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist) ![](https://img.shields.io/github/stars/K-Dense-AI/agentic-data-scientist.svg?cacheSeconds=86400) - Multi-agent framework for data science workflows with separated planning and execution phases.
 - [autora](https://github.com/autoresearch/autora) ![](https://img.shields.io/github/stars/autoresearch/autora.svg?cacheSeconds=86400) - Automated research assistant for closed-loop empirical research with autonomous experiment design and data analysis.
-- [expflow](https://github.com/diamond2nv/expflow) ![](https://img.shields.io/github/stars/diamond2nv/expflow.svg?cacheSeconds=86400) - Experiment workflow orchestration toolkit for PDEBench/Agentic4Sci with CLI-driven training, HPO, dispatch, and observability integrations.
+- [expflow](https://github.com/diamond2nv/expflow) ![](https://img.shields.io/github/stars/diamond2nv/expflow.svg?cacheSeconds=86400) - Experiment workflow orchestration toolkit for PDEBench/Agentic4Sci with CLI-driven training, hyperparameter optimization, dispatch, and observability integrations.
 - [Simply](https://github.com/google-deepmind/simply) ![](https://img.shields.io/github/stars/google-deepmind/simply.svg?cacheSeconds=86400) - Minimal JAX research codebase by Google DeepMind designed for agents to read code, propose ideas, run experiments, and iterate.
 
 ### Learning & Tutorials
