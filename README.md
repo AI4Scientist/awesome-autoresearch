@@ -90,6 +90,15 @@ Tools focused on searching, synthesizing, and reasoning over scientific literatu
 - [PaperQA2](https://github.com/Future-House/paper-qa) ![](https://img.shields.io/github/stars/Future-House/paper-qa.svg?cacheSeconds=86400) - High-accuracy retrieval-augmented QA over scientific PDFs, demonstrating superhuman synthesis of scientific knowledge.
 - [STORM](https://github.com/stanford-oval/storm) ![](https://img.shields.io/github/stars/stanford-oval/storm.svg?cacheSeconds=86400) - Stanford system for synthesizing Wikipedia-style long-form articles through multi-perspective question asking and retrieval.
 
+### Paper Recommendation & Review
+
+Open-source tools for personalized paper recommendation, AI-assisted reading, and draft review workflows.
+
+- [daily-paper-reader](https://github.com/ziwenhahaha/daily-paper-reader) ![](https://img.shields.io/github/stars/ziwenhahaha/daily-paper-reader.svg?cacheSeconds=86400) - Daily arXiv/OpenReview paper recommendation and AI reading platform with GitHub Actions automation and GitHub Pages deployment.
+- [OpenAIReview](https://github.com/ChicagoHAI/OpenAIReview) ![](https://img.shields.io/github/stars/ChicagoHAI/OpenAIReview.svg?cacheSeconds=86400) - LLM-assisted paper review toolkit that generates detailed draft feedback with multi-engine PDF extraction.
+- [openpaper](https://github.com/khoj-ai/openpaper) ![](https://img.shields.io/github/stars/khoj-ai/openpaper.svg?cacheSeconds=86400) - Research paper reading and annotation workspace with an AI copilot for grounded Q&A over personal libraries.
+- [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ![](https://img.shields.io/github/stars/TideDra/zotero-arxiv-daily.svg?cacheSeconds=86400) - Daily arXiv recommender that matches new papers to your Zotero library and sends personalized recommendations.
+
 ### Research Platforms
 
 Integrated platforms that host AI agents for collaborative research, publishing, and scientific workflows.
