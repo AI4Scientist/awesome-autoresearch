@@ -176,6 +176,7 @@ Commercial systems focused on autonomous end-to-end scientific research executio
 - [DeepScientist](http://deepscientist.cc) - AI platform for accelerating scientific research and discovery.
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist platform (Kosmos) for end-to-end research automation.
 - [FutureHouse](https://www.futurehouse.org) - AI platform building autonomous systems to accelerate scientific discovery.
+- [OpenResearch](https://openresearch.sh) - AI research platform for autonomous scientific research workflows.
 
 ### Literature Discovery & Search
 
