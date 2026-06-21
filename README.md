@@ -90,7 +90,7 @@ Tools focused on searching, synthesizing, and reasoning over scientific literatu
 - [PaperQA2](https://github.com/Future-House/paper-qa) ![](https://img.shields.io/github/stars/Future-House/paper-qa.svg?cacheSeconds=86400) - High-accuracy retrieval-augmented QA over scientific PDFs, demonstrating superhuman synthesis of scientific knowledge.
 - [STORM](https://github.com/stanford-oval/storm) ![](https://img.shields.io/github/stars/stanford-oval/storm.svg?cacheSeconds=86400) - Stanford system for synthesizing Wikipedia-style long-form articles through multi-perspective question asking and retrieval.
 
-### Paper Recommendation & Review
+### Paper Discovery & Review
 
 Open-source tools for personalized paper recommendation, AI-assisted reading, and draft review workflows.
 
