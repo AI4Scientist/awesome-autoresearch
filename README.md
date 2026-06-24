@@ -70,6 +70,7 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 General-purpose coding and experiment agents that serve as the "hands" of auto-research pipelines.
 
 - [MLE-agent](https://github.com/MLSysOps/MLE-agent) ![](https://img.shields.io/github/stars/MLSysOps/MLE-agent.svg?cacheSeconds=86400) - Intelligent companion for ML engineering and research integrating arXiv and Papers with Code for automated planning and debugging.
+- [AIDE](https://github.com/WecoAI/aideml) ![](https://img.shields.io/github/stars/WecoAI/aideml.svg?cacheSeconds=86400) - ML-engineering agent that uses tree search to optimize training code against any eval metric; human-level on Kaggle/MLE-bench.
 - [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) ![](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana.svg?cacheSeconds=86400) - Reference-driven multi-agent framework for automated academic illustration with 5 specialized agents producing publication-quality diagrams.
 
 ### Experiment & Data Automation
@@ -178,6 +179,7 @@ Commercial systems focused on autonomous end-to-end scientific research executio
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist platform (Kosmos) for end-to-end research automation.
 - [FutureHouse](https://www.futurehouse.org) - AI platform building autonomous systems to accelerate scientific discovery.
 - [OpenResearch](https://openresearch.sh) - AI research platform for autonomous scientific research workflows.
+- [Weco / Aiden](https://weco.ai) - Autonomous AI research agent (Aiden) running end-to-end autoresearch; finished as the top contributor in OpenAI's Parameter Golf competition.
 
 ### Literature Discovery & Search
 
