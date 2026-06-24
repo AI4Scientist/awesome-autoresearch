@@ -97,6 +97,7 @@ Open-source tools for personalized paper recommendation, AI-assisted reading, an
 - [daily-paper-reader](https://github.com/ziwenhahaha/daily-paper-reader) ![](https://img.shields.io/github/stars/ziwenhahaha/daily-paper-reader.svg?cacheSeconds=86400) - Daily arXiv/OpenReview paper recommendation and AI reading platform with GitHub Actions automation and GitHub Pages deployment.
 - [OpenAIReview](https://github.com/ChicagoHAI/OpenAIReview) ![](https://img.shields.io/github/stars/ChicagoHAI/OpenAIReview.svg?cacheSeconds=86400) - LLM-assisted paper review toolkit that generates detailed draft feedback with multi-engine PDF extraction.
 - [openpaper](https://github.com/khoj-ai/openpaper) ![](https://img.shields.io/github/stars/khoj-ai/openpaper.svg?cacheSeconds=86400) - Research paper reading and annotation workspace with an AI copilot for grounded Q&A over personal libraries.
+- [paper_online](https://github.com/KMnO4-zx/paper_online) ![](https://img.shields.io/github/stars/KMnO4-zx/paper_online.svg?cacheSeconds=86400) - AI-driven paper insight and intelligent analysis platform for quickly screening academic papers.
 - [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ![](https://img.shields.io/github/stars/TideDra/zotero-arxiv-daily.svg?cacheSeconds=86400) - Daily arXiv recommender that matches new papers to your Zotero library and sends personalized recommendations.
 
 ### Research Platforms
