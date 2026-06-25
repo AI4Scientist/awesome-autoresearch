@@ -42,7 +42,7 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 - [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) ![](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory.svg?cacheSeconds=86400) - End-to-end autonomous research workflow using LLM agents to assist with literature reviews, experiments, and report writing.
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) ![](https://img.shields.io/github/stars/HKUDS/AI-Researcher.svg?cacheSeconds=86400) - Autonomous scientific innovation system with dedicated research and paper agents for idea generation, experiment execution, and paper writing.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg?cacheSeconds=86400) - First comprehensive system for fully automatic scientific discovery, enabling LLMs to autonomously generate ideas, run experiments, and write papers.
-- [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2.svg?cacheSeconds=86400) - Workshop-level automated scientific discovery via agentic tree search; builds on AI-Scientist with improved experimental control.
+- [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2.svg?cacheSeconds=86400) - An autonomous AI research agent that employs agentic tree search for workshop-level scientific discovery, extending AI-Scientist with stronger experimental control and iterative hypothesis refinement.
 - [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep.svg?cacheSeconds=86400) - Lightweight Markdown-only research workflow with cross-model review loops, idea discovery, and experiment automation.
 - [auto-research](https://github.com/openags/auto-research) ![](https://img.shields.io/github/stars/openags/auto-research.svg?cacheSeconds=86400) - Autonomous generalist scientist framework for fully automated research agents from literature reviews to experiments and writing.
 - [autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/github/stars/karpathy/autoresearch.svg?cacheSeconds=86400) - Karpathy's autonomous overnight research loop where agents iteratively edit/train/evaluate a compact LLM setup under a fixed 5-minute experiment budget.
@@ -69,8 +69,8 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 
 General-purpose coding and experiment agents that serve as the "hands" of auto-research pipelines.
 
+- [AIDE](https://github.com/WecoAI/aideml) ![](https://img.shields.io/github/stars/WecoAI/aideml.svg?cacheSeconds=86400) - An ML engineering agent that uses tree search to optimize training code against arbitrary evaluation metrics, achieving human-level performance on Kaggle and MLE-bench.
 - [MLE-agent](https://github.com/MLSysOps/MLE-agent) ![](https://img.shields.io/github/stars/MLSysOps/MLE-agent.svg?cacheSeconds=86400) - Intelligent companion for ML engineering and research integrating arXiv and Papers with Code for automated planning and debugging.
-- [AIDE](https://github.com/WecoAI/aideml) ![](https://img.shields.io/github/stars/WecoAI/aideml.svg?cacheSeconds=86400) - ML-engineering agent that uses tree search to optimize training code against any eval metric; human-level on Kaggle/MLE-bench.
 - [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) ![](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana.svg?cacheSeconds=86400) - Reference-driven multi-agent framework for automated academic illustration with 5 specialized agents producing publication-quality diagrams.
 
 ### Experiment & Data Automation
@@ -179,7 +179,7 @@ Commercial systems focused on autonomous end-to-end scientific research executio
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist platform (Kosmos) for end-to-end research automation.
 - [FutureHouse](https://www.futurehouse.org) - AI platform building autonomous systems to accelerate scientific discovery.
 - [OpenResearch](https://openresearch.sh) - AI research platform for autonomous scientific research workflows.
-- [Weco / Aiden](https://weco.ai) - Autonomous AI research agent (Aiden) running end-to-end autoresearch; finished as the top contributor in OpenAI's Parameter Golf competition.
+- [Weco](https://weco.ai) - Autonomous AI research agent for end-to-end AI research, recognized as the top contributor in OpenAI's Parameter Golf competition.
 
 ### Literature Discovery & Search
 
