@@ -91,6 +91,7 @@ Autonomous systems that cover the full research lifecycle from ideation through 
 - [Robin](https://github.com/Future-House/robin) ![](https://img.shields.io/github/stars/Future-House/robin.svg?cacheSeconds=172800) - Multi-agent system by FutureHouse for automating scientific discovery, demonstrated on real-world biomedical research tasks (Nature 2026).
 - [Virtual Lab](https://github.com/zou-group/virtual-lab) ![](https://img.shields.io/github/stars/zou-group/virtual-lab.svg?cacheSeconds=172800) - AI agent team that autonomously designs novel SARS-CoV-2 nanobodies, demonstrating end-to-end wet-lab-integrated scientific discovery.
 - [Virtual-Scientists](https://github.com/InternScience/Virtual-Scientists) ![](https://img.shields.io/github/stars/InternScience/Virtual-Scientists.svg?cacheSeconds=172800) - ACL 2025 project featuring many-heads multi-agent scientific idea generation for diverse hypothesis exploration.
+- [Writing-Driven Autoresearch](https://github.com/happyhappy-jun/writing-driven-autoresearch) ![](https://img.shields.io/github/stars/happyhappy-jun/writing-driven-autoresearch.svg?cacheSeconds=172800) - Multi-agent harness that keeps a submittable paper from minute zero and drives every experiment from the claims in that draft; 1st place at the [Ralphthon@ICML 2026](https://luma.com/hjuo7auc) autonomous-research hackathon.
 
 ### Research Platforms & IDEs
 
