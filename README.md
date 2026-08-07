@@ -136,6 +136,7 @@ Tools focused on manuscript drafting, paper assembly, and submission-ready scien
 - [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer.svg?cacheSeconds=172800) - AI-powered scientific writing assistant for automated research paper generation and technical documentation.
 - [Idea2Paper](https://github.com/AgentAlphaAGI/Idea2Paper) ![](https://img.shields.io/github/stars/AgentAlphaAGI/Idea2Paper.svg?cacheSeconds=172800) - End-to-end pipeline that takes a research idea and autonomously generates a complete paper draft.
 - [PaperOrchestra](https://github.com/google-research/paper-orchestra) ![](https://img.shields.io/github/stars/google-research/paper-orchestra.svg?cacheSeconds=172800) - Multi-agent framework for automated research paper writing from raw ideas and experiment logs to submission-ready LaTeX drafts.
+- [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) ![](https://img.shields.io/github/stars/TIGER-AI-Lab/ScholarCopilot.svg?cacheSeconds=172800) - LLM trained for academic writing that generates text with retrieval-grounded, accurate citations.
 
 ### Skill Libraries & Extensions
 
