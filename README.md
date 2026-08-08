@@ -26,6 +26,7 @@ Benchmarks and evaluation suites for measuring capabilities of autonomous resear
 Research-focused agents for iterative retrieval, synthesis, and report generation on complex questions.
 
 - [Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) ![](https://img.shields.io/github/stars/HKUDS/Auto-Deep-Research.svg?cacheSeconds=172800) - Open-source, cost-efficient alternative to OpenAI's Deep Research with universal LLM compatibility and strong GAIA Benchmark results.
+- [Caesar](https://github.com/jasonzliang/caesar-agent) ![](https://img.shields.io/github/stars/jasonzliang/caesar-agent.svg?cacheSeconds=172800) - Builds a knowledge graph during web exploration, then refines drafts through adversarial synthesis that targets gaps in the previous draft.
 - [DeerFlow](https://github.com/bytedance/deer-flow) ![](https://img.shields.io/github/stars/bytedance/deer-flow.svg?cacheSeconds=172800) - ByteDance's deep research workflow agent combining web search, code execution, and multi-step reasoning for complex research tasks.
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ![](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg?cacheSeconds=172800) - Tongyi Deep Research — iterative retrieval-augmented research agent for complex multi-hop questions.
 - [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) ![](https://img.shields.io/github/stars/SkyworkAI/DeepResearchAgent.svg?cacheSeconds=172800) - Skywork AI's deep research agent for thorough multi-source web research and report synthesis.
