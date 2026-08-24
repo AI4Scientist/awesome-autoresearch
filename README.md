@@ -41,6 +41,7 @@ Tools focused on grounded question answering and literature synthesis over scien
 
 - [OpenScholar](https://github.com/AkariAsai/OpenScholar) ![](https://img.shields.io/github/stars/AkariAsai/OpenScholar.svg?cacheSeconds=172800) - Retrieval-augmented language model that synthesizes scientific literature by grounding responses in relevant paper evidence.
 - [PaperQA2](https://github.com/Future-House/paper-qa) ![](https://img.shields.io/github/stars/Future-House/paper-qa.svg?cacheSeconds=172800) - High-accuracy retrieval-augmented QA over scientific PDFs, demonstrating superhuman synthesis of scientific knowledge.
+- [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) ![](https://img.shields.io/github/stars/RetrogradeLabs/lune-mcp-server.svg?cacheSeconds=172800) - MCP server for full-text search over peer-reviewed computer-science papers, citation traversal, structured evidence extraction, and claim verification against verbatim quotes.
 - [STORM](https://github.com/stanford-oval/storm) ![](https://img.shields.io/github/stars/stanford-oval/storm.svg?cacheSeconds=172800) - Stanford system for synthesizing Wikipedia-style long-form articles through multi-perspective question asking and retrieval.
 
 ### Paper Discovery & Monitoring
