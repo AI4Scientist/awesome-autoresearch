@@ -124,6 +124,7 @@ Tools that act as the execution layer for experiments, data workflows, and resea
 - [MLE-agent](https://github.com/MLSysOps/MLE-agent) ![](https://img.shields.io/github/stars/MLSysOps/MLE-agent.svg?cacheSeconds=172800) - Intelligent companion for ML engineering and research integrating arXiv and Papers with Code for automated planning and debugging.
 - [RD-Agent](https://github.com/microsoft/RD-Agent) ![](https://img.shields.io/github/stars/microsoft/RD-Agent.svg?cacheSeconds=172800) - Microsoft's LLM-agent framework for autonomous R&D, covering data science, quant finance, and research-driven software development.
 - [Simply](https://github.com/google-deepmind/simply) ![](https://img.shields.io/github/stars/google-deepmind/simply.svg?cacheSeconds=172800) - Minimal JAX research codebase by Google DeepMind designed for agents to read code, propose ideas, run experiments, and iterate.
+- [STEER](https://github.com/xieyulai/steer) ![](https://img.shields.io/github/stars/xieyulai/steer.svg?cacheSeconds=172800) - AI4R experiment framework for auto-research: connect existing projects and let agents edit code and train under a frozen task/scorer contract with ledgers and audit gates.
 
 ### Figure, Visualization & Design Agents
 
