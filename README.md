@@ -206,6 +206,7 @@ Commercial tools for discovering, searching, and synthesizing scientific literat
 Commercial products for document understanding, paper review, and research knowledge workflows.
 
 - [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery) - Enterprise AI platform for intelligent document understanding and search.
+- [Nujan](https://nujan.app) - Dual-pane scientific paper reader with Socratic AI coaching, mathematical derivation breakdowns, and multi-paper synthesis.
 - [paper2skills](https://paper2skills.com) - AI-powered platform that converts research papers into actionable skills.
 - [PaperReview](https://paperreview.ai) - AI-powered platform for automated paper review and feedback.
 - [SciSpace](https://scispace.com) - AI copilot for research paper reading, writing, and understanding.
