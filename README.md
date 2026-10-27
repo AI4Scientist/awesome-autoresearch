@@ -20,6 +20,7 @@ Benchmarks and evaluation suites for measuring capabilities of autonomous resear
 - [MLGym](https://github.com/facebookresearch/MLGym) ![](https://img.shields.io/github/stars/facebookresearch/MLGym.svg?cacheSeconds=172800) - Unified framework and benchmark by Meta FAIR for developing and evaluating AI research agents across ML tasks.
 - [ScholarEval](https://github.com/skai-research/ScholarEval) ![](https://img.shields.io/github/stars/skai-research/ScholarEval.svg?cacheSeconds=172800) - Literature-grounded framework for evaluating research ideas with multi-dimensional quality criteria.
 - [scienceboard](https://github.com/Agni-bot/scienceboard) ![](https://img.shields.io/github/stars/Agni-bot/scienceboard.svg?cacheSeconds=172800) - VM-based benchmark for evaluating multimodal autonomous agents on realistic scientific workflows.
+- [SciPIvot](https://github.com/AutoResearch-Factory/SciPIvot) ![](https://img.shields.io/github/stars/AutoResearch-Factory/SciPIvot.svg?cacheSeconds=172800) - Benchmark of 248 principal-investigator judgment calls from real frontier research projects. Four of five frontier models score below random.
 
 ### Deep Research Agents
 
