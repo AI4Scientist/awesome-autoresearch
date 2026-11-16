@@ -189,6 +189,7 @@ Educational resources, surveys, and practical guides for learning autonomous res
 Commercial systems focused on autonomous end-to-end scientific research execution and acceleration.
 
 - [Analemma](https://analemma.ai/fars) - Fully autonomous research system for end-to-end scientific research automation.
+- [AutoResearch](https://autoresearch.me/en/) - Hosted platform for end-to-end research from an idea to a complete paper: it connects literature, code, experiments and writing, and delivers figures, references and editable source; private beta access requires administrator approval. Distinct from [karpathy/autoresearch](https://github.com/karpathy/autoresearch).
 - [Co-Scientist](https://research.google/blog/accelerating-scientific-discovery-with-co-scientist/) - Google's AI co-scientist system for hypothesis generation, experimental design, and literature synthesis, demonstrated across multiple biomedical domains (Nature 2026).
 - [DeepScientist](http://deepscientist.cc) - AI platform for accelerating scientific research and discovery.
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist platform (Kosmos) for end-to-end research automation.
